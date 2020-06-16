@@ -237,3 +237,12 @@ ul:hover {
     margin: 3px 0px;
   }
   
+footer{
+    background-color:#E1E0E2;
+    height: 100px;
+}
+.footer__container{
+    text-align: center;
+    font-size:20px;
+    color: #402C49;
+}
